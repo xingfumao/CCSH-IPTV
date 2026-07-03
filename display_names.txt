@@ -1,4 +1,3 @@
-1905环球经典
 4K健身
 4K宝贝
 4K少儿专区
@@ -11,6 +10,7 @@
 4K美食
 4K视界专区
 ABC Australia
+ABC Australia 澳洲公广频道
 ABCAustralia
 AMC
 ARIRANG阿里郎频道
@@ -20,14 +20,12 @@ Animax
 Arirang TV
 Arirang TV HD
 ArirangTV
-Asian Food Network 亚洲美食频道
 Astro Cricket
 BBC
 BBC Earth
 BBC Earth HD
 BBC Lifestyle
 BBC Lifestyle HD
-BBC NEWS
 BBC NEWS HD
 BBC News
 BBCEarth
@@ -53,6 +51,7 @@ CATCHPLAY电影台
 CBeebies
 CCTV-1
 CCTV-1 综合
+CCTV-1 高清
 CCTV-10 科教
 CCTV-10科教
 CCTV-11 戏曲
@@ -64,38 +63,37 @@ CCTV-13新闻
 CCTV-14 少儿
 CCTV-14少儿
 CCTV-15 音乐
+CCTV-15 高清
 CCTV-15音乐
-CCTV-15（高清）
 CCTV-16奥林匹克
+CCTV-17 农业农村
 CCTV-17农业农村
-CCTV-17（农业农村）
 CCTV-1综合
-CCTV-1（高清）
 CCTV-2 财经
 CCTV-2财经
 CCTV-3 综艺
+CCTV-3 高清
 CCTV-3综艺
-CCTV-3（高清）
 CCTV-4
 CCTV-4 (亚洲)
 CCTV-4 (欧洲)
 CCTV-4 (美洲)
-CCTV-4中文国际（欧）
-CCTV-4中文国际（美）
+CCTV-4中文国际 欧
+CCTV-4中文国际 美
 CCTV-4国际
 CCTV-5 体育
+CCTV-5 高清
 CCTV-5+ 体育赛事
 CCTV-5体育
-CCTV-5（高清）
 CCTV-6 电影
+CCTV-6 高清
 CCTV-6电影
-CCTV-6（高清）
 CCTV-7 国防军事
 CCTV-7国防军事
 CCTV-8 电视剧
+CCTV-8 高清
 CCTV-8K
 CCTV-8电视剧
-CCTV-8（高清）
 CCTV-9 纪录
 CCTV-9纪录
 CCTV1
@@ -125,6 +123,7 @@ CCTV8
 CCTV8K
 CCTV9
 CCTVNews
+CCTV娱乐
 CCTV怀旧剧场
 CCTV第一剧场
 CCTV风云剧场
@@ -161,7 +160,6 @@ CHC影迷电影
 CHC高清电影
 CI
 CI 罪案侦查频道
-CI 罪案侦缉频道
 CINEMAX
 CINEMAX热门影院
 CLASSICA 古典乐
@@ -175,7 +173,6 @@ CNBCHongKong
 CNC中文
 CNC英文
 CNN
-CNN International
 CNN 国际新闻网络
 CNNI HD
 CN卡通频道
@@ -183,23 +180,18 @@ COLORS
 Cartoon Network
 CatchPlay HD
 CatchPlay电影
-Cbeebies
 Cbeebies HD
-Channel News Asia
 Channel NewsAsia
 ChannelNewsAsia
 Channel[V]
 CinemaWorld
 CinemaWorld HD
-CinemaWorld 世界影城电影频道
-Cinemax
 Concerto
 DAZN 1
 DAZN 2
 DAZN 3
 DMAX
 DMAX HD
-DMAX频道
 DONGFANG1
 DOX4K
 DREAMWORKS
@@ -207,7 +199,6 @@ DTV
 DW
 DW (English)
 DW德国之声
-Da Vinci
 Discovery
 Discovery Asia
 Discovery Asia HD
@@ -219,6 +210,7 @@ Discovery科学HD
 Discovery科学频道
 DocsVille
 DreamWorks 梦工厂动画
+ELTV
 ELTV生活英语台
 ETtoday综合台
 EUROSPORT
@@ -231,7 +223,6 @@ EYE戏剧
 EYE旅游
 Ettoday
 Euronews
-Eurosport
 FRANCE24 英文台
 FRANCE24E HD
 FRANCE24F
@@ -253,7 +244,6 @@ Getwin Sports运动台
 Global Trekker
 Global Trekker HD
 Global Trekker 探索世界
-Global Trekker 探索世界频道
 Globetrotter
 GoodTV
 GoodTV2
@@ -261,9 +251,7 @@ HBO
 HBO Family
 HBO HD
 HBO Hits
-HBO Hits 强档巨献
 HBO Signature
-HBO Signature 原创巨献
 HBO 原创巨献
 HBO 强档巨献
 HBO 温馨家庭
@@ -299,7 +287,6 @@ History 历史频道
 Hot
 INULTRA
 J2
-JET TV
 JET综合台
 JINHUATV1
 JStar极限台电影频道
@@ -309,9 +296,7 @@ KFTV1
 KIX
 KLT-靖天国际台
 KLT-靖天国际台HD
-LOVE NATURE
 LOVE NATURE 4K
-LS TIME电影台
 LS Time电影台
 LSTIME电影台
 LSTime电影台
@@ -325,31 +310,26 @@ LiveABC互动英语频道
 Love Nature
 Love Nature 4K
 Love Nature HD
+Lucky 688
 MCE 我的欧洲电影台
 MEZZOLIVEHD
 MOMO 1台
 MOMO 2台
 MOMO亲子台
 MOMO综合台
-MOOV 演唱会/MV台
 MOVIE MOVIE
 MTV
 MTV India
 MTV综合
 MTV综合台HD
-MTV综合电视台
-MUCH TV
-MagellanTV频道 (麦哲伦频道)
 Medici-arts HD
 Mezzo Live
 Mezzo Live HD
 Moonbug
-My Cinema Europe HD  我的欧洲电影
 My Cinema Europe HD 我的欧洲电影
 MyCinemaEurope
 NBA TV
 NHK
-NHK WORLD PREMIUM
 NHK WORLD-JAPAN
 NHK World Premium
 NHK World-Japan
@@ -360,7 +340,6 @@ NOW 70s
 NOW 80s
 NOW 90s00s
 NOW ROCK
-Netflix
 New TV科教 (免费)
 NewTV养生 (免费)
 NewTV功夫 (免费)
@@ -370,10 +349,8 @@ Nice TV 靖天欢乐台
 Nick Jr
 Nick Jr.
 Nick Jr. 儿童频道
-Nick Jr.(小尼克)
 NickJr.
 Nickelodeon
-Nickelodeon Asia尼克儿童频道
 Now Golf 2
 Now Golf 3
 Now Sports 1
@@ -387,6 +364,7 @@ Now Sports 4K 616
 Now Sports 4K 617
 Now Sports 5
 Now Sports 6
+Now Sports 615
 Now Sports 618
 Now Sports 619
 Now Sports 641
@@ -404,7 +382,6 @@ Now Sports 英超4台
 Now Sports 英超5台
 Now Sports 英超6台
 Now Sports 英超7台
-Now 影视点播站
 Now 爆谷台
 Now668
 NowJelli
@@ -417,7 +394,6 @@ Now财经台
 OUTtv HD
 Outdoor
 PET CLUB TV HD
-PET CLUB TV宠物频道
 PULSE Documentaries
 Pet Club TV
 PopC
@@ -425,7 +401,6 @@ Premier Sports
 QHTV1
 ROCK Action
 ROCK Action HD
-ROCK Action 摇滚电影频道
 ROCK ENTERTAINMENT
 ROCK EXTREME
 ROCK Entertainment
@@ -477,11 +452,9 @@ TATV4
 TBC台中生活台
 TBC桃园生活台
 TFC
-TLC 旅游生活频道
 TLC旅游生活频道
 TRACE Sport Stars
 TRACE Sport Stars HD
-TRACE Sport Stars 运动明星
 TRACE Urban
 TRACE Urban HD
 TRACEUrban
@@ -490,11 +463,7 @@ TV5MONDE ASIE
 TV5MONDE STYLE HD 生活时尚
 TV5MONDE Style
 TV5Monde
-TVB J2
-TVB Pearl
 TVB Plus
-TVB 互动新闻台
-TVB 翡翠台
 TVBS
 TVBS 新闻台
 TVBS新闻
@@ -510,11 +479,9 @@ Thrill
 TraceSports
 Travel Channel HD
 TravelChannel
-ViVa 1台
 ViVa1台
 Viu 频道
 ViuTV
-ViuTVsix
 Warner TV
 Warner TV HD
 WarnerTV
@@ -536,7 +503,6 @@ beIN SPORTS 5
 beIN SPORTS 6
 cinemaworld
 cnex
-era news 年代新闻
 euronews
 france24
 fun探索娱乐台
@@ -544,6 +510,7 @@ globaltrekker
 iHOT爱体育
 iHOT爱历史
 iHOT爱喜剧
+iHOT爱幼教
 iHOT爱旅行
 iHOT爱浪漫
 iHOT爱玩具
@@ -552,9 +519,7 @@ iHOT爱科幻
 iHOT爱谍战
 iHOT爱赛车
 iHOT爱院线
-momo 1台
 momo1台HD
-momo2台
 momo2台HD
 momo综合台HD
 myTV SUPER 18台
@@ -595,11 +560,10 @@ wedotv Movies HD
 上海都市
 上视东方影视
 上视新闻频道
-世界卫星电视台
 世界地理
 东北热剧
 东南卫视
-东南卫视（高清）
+东南卫视 高清
 东方卫视
 东方卫视国际频道
 东方影视
@@ -630,9 +594,7 @@ wedotv Movies HD
 东莞新闻
 东莞生活资讯
 东风卫视
-东风卫视台
 中华特产
-中华电视台
 中台湾生活网频道
 中国中央电视台中文国际频道
 中国中央电视台娱乐频道
@@ -661,7 +623,6 @@ wedotv Movies HD
 中山综合
 中视
 中视HD
-中视数位台
 中视新闻
 中视新闻HD
 中视新闻台
@@ -702,13 +663,11 @@ wedotv Movies HD
 优优宝贝
 优漫卡通
 佛卫慈悲台
-佛卫电视慈悲台
 佛山公共
 佛山南海
 佛山综合
 佛山顺德
 信吉电视台
-信吉艺文台
 信吉艺文台HD
 信大电视台
 信大频道
@@ -717,7 +676,6 @@ wedotv Movies HD
 全大电视台
 全民热练
 全球大片专区
-全球财经网频道
 全纪实
 八大优
 八大优频道
@@ -728,8 +686,6 @@ wedotv Movies HD
 八大综合台
 八大综艺台
 公共电视
-公共电视台
-公用频道
 公视
 公视(HD)
 公视2
@@ -767,7 +723,6 @@ wedotv Movies HD
 冠军梦想台
 冠军电视台
 冬奥纪实
-冰火频道
 凤凰中文
 凤凰卫视
 凤凰卫视中文台
@@ -782,13 +737,11 @@ wedotv Movies HD
 动漫秀场
 动物星球
 动物星球频道
-动画
 劲爆体育
 北京IPTV4K超清
 北京体育休闲
 北京卫视
 北京国际
-北京国际频道
 北京影视
 北京文艺
 北京新闻
@@ -802,7 +755,6 @@ wedotv Movies HD
 十堰新闻综合
 十堰经济旅游
 十方法界
-十方法界电视台
 千禧经典台
 半岛国际新闻台
 半岛电视台英语频道
@@ -815,7 +767,6 @@ wedotv Movies HD
 华艺台湾台 HD
 华艺影剧
 华艺影剧台
-华藏卫星电视台
 华藏卫视
 华藏卫视HD
 华视
@@ -823,7 +774,6 @@ wedotv Movies HD
 华视教育体育文化台
 华视新闻
 华视新闻资讯HD
-华视新闻资讯台
 华语剧台
 华语影院专区
 南京信息
@@ -879,7 +829,7 @@ wedotv Movies HD
 厦门三套
 厦门二套
 厦门卫视
-厦门卫视（高清）
+厦门卫视 高清
 厦门海峡
 厦门移动
 厦门综合
@@ -892,7 +842,6 @@ wedotv Movies HD
 台州新闻综合
 台湾戏剧
 台湾戏剧HD
-台湾电视台
 台湾综合台
 台湾艺术台
 台视
@@ -927,6 +876,7 @@ wedotv Movies HD
 咪咕综合体育
 咪咕足球
 哈哈炫动
+哈萨克语新闻综合
 哈萨克语综艺
 哒啵电竞
 哒啵赛事
@@ -938,7 +888,7 @@ wedotv Movies HD
 四大名著剧场
 四川乡村
 四川卫视
-四川卫视（高清）
+四川卫视 高清
 四川妇女儿童
 四川影视文艺
 四川文化旅游
@@ -966,7 +916,6 @@ wedotv Movies HD
 大台中生活频道
 大庆新闻综合
 大湾区卫视
-大爱
 大爱一台
 大爱二台
 大爱二台HD
@@ -984,7 +933,7 @@ wedotv Movies HD
 天映马来西亚
 天津体育
 天津卫视
-天津卫视（高清）
+天津卫视 高清
 天津少儿
 天津影视
 天津教育
@@ -1006,8 +955,6 @@ wedotv Movies HD
 好消息2台
 好消息HD
 好消息二台
-好消息二台HD
-好消息卫星电视台
 好消息频道
 好莱坞电影台
 威达超舜生活台
@@ -1024,7 +971,7 @@ wedotv Movies HD
 安徽公共
 安徽农业科教
 安徽卫视
-安徽卫视（高清）
+安徽卫视 高清
 安徽广播电视台国际频道
 安徽影视
 安徽科教
@@ -1055,19 +1002,16 @@ wedotv Movies HD
 寰宇新闻台湾台HD
 寰宇财经
 寰宇财经HD
-寰宇财经台
 小公视
-小公视（公视儿少台）
 小尼克频道
 少儿动漫
-少儿动画专区
 尼克儿童频道
 尼克儿童频道HD
 山东体育
 山东体育休闲
 山东农科
 山东卫视
-山东卫视（高清）
+山东卫视 高清
 山东少儿
 山东教育
 山东教育卫视
@@ -1079,7 +1023,7 @@ wedotv Movies HD
 山东齐鲁
 山西公共
 山西卫视
-山西卫视（高清）
+山西卫视 高清
 山西影视
 山西文体生活
 山西社会与法治
@@ -1155,7 +1099,6 @@ wedotv Movies HD
 惊艳成人电影台
 戏曲台
 戏曲精选专区
-成人极品台
 成都公共
 成都少儿
 成都影视文艺
@@ -1189,6 +1132,7 @@ wedotv Movies HD
 无线卫星新闻台
 无线新闻
 无线新闻台
+无锡娱乐
 无锡新闻综合
 无锡生活
 无锡电视娱乐
@@ -1228,7 +1172,6 @@ wedotv Movies HD
 柳州新闻综合
 梅州-1
 梅迪奇艺术
-梅迪奇艺术频道
 梨园
 梨园频道
 欢乐剧场
@@ -1240,9 +1183,13 @@ wedotv Movies HD
 正德电视台HD
 武侠剧场
 武术世界
+武汉外语
+武汉少儿
 武汉教育
+武汉文体
 武汉新闻综合
 武汉电视剧
+武汉经济
 武汉都市文体
 民视
 民视HD
@@ -1274,7 +1221,7 @@ wedotv Movies HD
 江苏优漫卡通
 江苏体育休闲
 江苏卫视
-江苏卫视（高清）
+江苏卫视 高清
 江苏国际
 江苏城市
 江苏影视
@@ -1296,7 +1243,7 @@ wedotv Movies HD
 河北三农
 河北农民
 河北卫视
-河北卫视（高清）
+河北卫视 高清
 河北少儿
 河北少儿科教
 河北影视
@@ -1371,9 +1318,8 @@ wedotv Movies HD
 港台电视35
 游戏风云
 湖北公共
-湖北公共新闻
 湖北卫视
-湖北卫视（高清）
+湖北卫视 高清
 湖北垄上
 湖北影视
 湖北教育
@@ -1462,7 +1408,6 @@ wedotv Movies HD
 睛彩广场舞
 睛彩竞技
 睛彩篮球
-睛彩羽毛球
 睛彩青少
 石家庄娱乐
 石家庄新闻综合
@@ -1486,6 +1431,7 @@ wedotv Movies HD
 精品萌宠
 精彩影视
 精彩电影
+精选
 精选动漫台
 红色影院
 红色轮播
@@ -1498,7 +1444,6 @@ wedotv Movies HD
 纬来精彩台
 纬来精采
 纬来精采HD
-纬来精采台
 纬来综合台
 纬来育乐台
 纬来音乐台
@@ -1512,6 +1457,7 @@ wedotv Movies HD
 经典电影台
 经济科教
 维吾尔语影视
+维吾尔语新闻综合
 维吾尔语经济生活
 绵阳影视科技
 综合体育
@@ -1527,7 +1473,6 @@ wedotv Movies HD
 美好2台
 美食星球
 美食星球HD
-美食星球频道
 翡翠台
 老故事
 肇庆新闻
@@ -1586,9 +1531,7 @@ wedotv Movies HD
 超级体育
 超级电影
 超级电视剧
-超级电视台
 超级综艺
-超视
 足球
 车迷TV
 车迷TV HD
@@ -1597,7 +1540,7 @@ wedotv Movies HD
 辽宁公共
 辽宁北方
 辽宁卫视
-辽宁卫视（高清）
+辽宁卫视 高清
 辽宁影视剧
 辽宁教育青少
 辽宁生活
@@ -1624,7 +1567,7 @@ wedotv Movies HD
 重庆党员教育
 重庆农村
 重庆卫视
-重庆卫视（高清）
+重庆卫视 高清
 重庆国际
 重庆娱乐
 重庆少儿
@@ -1641,6 +1584,7 @@ wedotv Movies HD
 重温经典
 金光布袋戏
 金华新闻
+金色
 金色学堂
 金鹰卡通
 金鹰纪实
@@ -1685,7 +1629,6 @@ wedotv Movies HD
 随州农村
 随州综合
 霹雳台湾台
-霹雳电视台
 青岛影视
 青岛教育
 青岛新闻综合
@@ -1706,7 +1649,6 @@ wedotv Movies HD
 靖天日本台
 靖天映画
 靖天映画HD
-靖天映画台
 靖天欢乐台
 靖天电影HD
 靖天电影台
@@ -1714,12 +1656,10 @@ wedotv Movies HD
 靖天综合台HD
 靖天育乐HD
 靖天育乐台
-靖天购物一台
 靖天资讯HD
 靖天资讯台
 靖洋卡通Nice Bingo
 靖洋卡通台
-靖洋卡通台Nice Bingo
 靖洋卡通台Nice Bingo HD
 靖洋戏剧HD
 靖洋戏剧台
@@ -1742,7 +1682,6 @@ wedotv Movies HD
 高点电视台
 高点综合台
 高点育乐台
-高雄都会台
 魅力时尚
 魅力时尚专区
 魅力足球
